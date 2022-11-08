@@ -1,2 +1,3 @@
 # .github
-Community Health Files for the @dmind-gmbh organization
+
+Community Health Files for the [d-mind GmbH](https://github.com/dmind-gmbh/) organization
